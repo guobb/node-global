@@ -1,0 +1,23 @@
+{
+  "name": "node-global",
+  "version": "1.0.0",
+  "description": "node global",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guobb/node-global.git"
+  },
+  "keywords": [
+    "node",
+    "global"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guobb/node-global/issues"
+  },
+  "homepage": "https://github.com/guobb/node-global#readme"
+}
